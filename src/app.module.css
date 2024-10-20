@@ -1,0 +1,12 @@
+.calculator {
+  border: 1px solid black;
+  width: 200px;
+  border-radius: 5px;
+  padding: 10px; /* Optional: add padding to make space inside the calculator */
+}
+
+.display {
+  margin:10px;
+  width:170px;
+  font-size:25px;
+}
